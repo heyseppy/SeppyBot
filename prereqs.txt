@@ -1,0 +1,5 @@
+#Must Have These Followings Pre-req's installed:
+
+import cryptocompare
+from pyfiglet import Figlet
+import time
