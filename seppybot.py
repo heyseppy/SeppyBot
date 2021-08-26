@@ -30,7 +30,7 @@ sellmoment = "neutral"
 profit = 0
 #Let it Run:
 
-while (1==1):
+while True:
     
     bitcoin_current_price = get_latest_crypto_price(1)
     change = (bitcoin_current_price - pirooozi_bought_price) / pirooozi_bought_price
